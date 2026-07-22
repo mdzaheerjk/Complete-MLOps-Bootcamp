@@ -1,1 +1,1 @@
-# Complete-MLOps-Bootcamp-2026
+# Complete-MLOps-Bootcamp
